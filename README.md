@@ -1,4 +1,4 @@
-# GitDemoilua
+# Git/Github-demoiluja
 Git demoilua
 
 ## Ominaisuuslista (features)
@@ -8,3 +8,5 @@ Git demoilua
 * Bootstrap mukaan
 * Kissakuva (must have)
 * Linkki Xamkin sivulle
+
+--- 
